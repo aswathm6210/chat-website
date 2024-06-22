@@ -6,7 +6,7 @@ const cors = require("cors");
 const ChatMessage = require("./models/ChatMessage");
  
 const app = express();
-const PORT = 3000;
+const PORT = 9000;
  
 
 app.use(cors());
